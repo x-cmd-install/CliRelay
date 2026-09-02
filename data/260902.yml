@@ -1,0 +1,60 @@
+about:
+  description: Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas.
+  license: MIT
+  homepage: 
+  head: 1aecb49
+  archived: false
+  latestVersion: v0.4.31
+  collectedAt: 2026-09-02T04:58:59Z
+timeline:
+  created: 2026-02-27
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-29
+popularity:
+  star: 981
+  watcher: 3
+  fork: 115
+  release: 42
+  contributor: 98
+  pullRequest: 50
+  issue: 101
+language:
+  Go: 10789305
+  Shell: 84685
+  Python: 79631
+  Dockerfile: 5409
+  PowerShell: 2000
+totalLine: 10961030
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 12
+    mergedPR: 96
+    openPR: 8
+    closedIssue: 3
+    openIssue: 7
+    commit: 70
+  last90d:
+    since: 2026-06-04
+    release: 32
+    mergedPR: 566
+    openPR: 14
+    closedIssue: 24
+    openIssue: 10
+    commit: 501
+  last180d:
+    since: 2026-03-06
+    release: 42
+    mergedPR: 806
+    openPR: 15
+    closedIssue: 88
+    openIssue: 13
+    commit: 988
+  last360d:
+    since: 2025-09-07
+    release: 42
+    mergedPR: 807
+    openPR: 15
+    closedIssue: 88
+    openIssue: 13
+    commit: 2291
