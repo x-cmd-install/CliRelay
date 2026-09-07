@@ -1,0 +1,173 @@
+about:
+  description: "Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas."
+  license: MIT
+  homepage: 
+  head: d93561a
+  archived: false
+  latestVersion: "v0.4.34"
+  collectedAt: 2026-09-07T05:09:19Z
+timeline:
+  created: 2026-02-27
+  lastCommit: 2026-09-05
+  lastRelease: 2026-09-05
+popularity:
+  star: 985
+  watcher: 3
+  fork: 118
+  release: 45
+  contributor: 98
+  pullRequest: 881
+  issue: 106
+language:
+  Go: 10922681
+  Shell: 82680
+  Python: 79631
+  Dockerfile: 5276
+  PowerShell: 2000
+totalBytes: 11092268
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 13
+    mergedPR: 105
+    openPR: 4
+    closedIssue: 7
+    openIssue: 6
+    commit: 82
+  last60d:
+    since: 2026-07-09
+    release: 27
+    mergedPR: 351
+    openPR: 6
+    closedIssue: 14
+    openIssue: 9
+    commit: 272
+  last90d:
+    since: 2026-06-09
+    release: 34
+    mergedPR: 520
+    openPR: 6
+    closedIssue: 29
+    openIssue: 9
+    commit: 491
+  last180d:
+    since: 2026-03-11
+    release: 45
+    mergedPR: 831
+    openPR: 6
+    closedIssue: 94
+    openIssue: 12
+    commit: 956
+  last360d:
+    since: 2025-09-12
+    release: 45
+    mergedPR: 833
+    openPR: 6
+    closedIssue: 94
+    openIssue: 12
+    commit: 2296
+  last720d:
+    since: 2024-09-17
+    release: 45
+    mergedPR: 833
+    openPR: 6
+    closedIssue: 94
+    openIssue: 12
+    commit: 3556
+total:
+  release: 45
+  mergedPR: 833
+  openPR: 6
+  closedIssue: 94
+  openIssue: 12
+  commit: 3556
+---
+path: /home/runner/.x-repo/github.com/kittors/CliRelay
+collectedAt: 2026-09-07T05:09:26Z
+loc:
+  Go:
+    code: 351807
+    comments: 32579
+    blanks: 40441
+    files: 1646
+  Sh:
+    code: 2012
+    comments: 144
+    blanks: 215
+    files: 10
+  Python:
+    code: 1857
+    comments: 24
+    blanks: 273
+    files: 3
+  Yaml:
+    code: 198
+    comments: 400
+    blanks: 61
+    files: 2
+  Dockerfile:
+    code: 83
+    comments: 12
+    blanks: 27
+    files: 1
+  PowerShell:
+    code: 35
+    comments: 9
+    blanks: 9
+    files: 1
+  Bash:
+    code: 19
+    comments: 5
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 619
+    blanks: 223
+    files: 4
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 356053
+  comments: 33804
+  blanks: 41260
+  files: 1669
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:09:28+00:00
+  platform:
+    darwin/arm64:
+      name:  CliRelay_0.4.34_darwin_arm64.tar.gz
+      url:   https://github.com/kittors/CliRelay/releases/download/v0.4.34/CliRelay_0.4.34_darwin_arm64.tar.gz
+      size:  15997172
+      score: 145
+    darwin/amd64:
+      name:  CliRelay_0.4.34_darwin_amd64.tar.gz
+      url:   https://github.com/kittors/CliRelay/releases/download/v0.4.34/CliRelay_0.4.34_darwin_amd64.tar.gz
+      size:  16977559
+      score: 145
+    linux/arm64:
+      name:  CliRelay_0.4.34_linux_arm64.tar.gz
+      url:   https://github.com/kittors/CliRelay/releases/download/v0.4.34/CliRelay_0.4.34_linux_arm64.tar.gz
+      size:  14972637
+      score: 145
+    linux/amd64:
+      name:  CliRelay_0.4.34_linux_amd64.tar.gz
+      url:   https://github.com/kittors/CliRelay/releases/download/v0.4.34/CliRelay_0.4.34_linux_amd64.tar.gz
+      size:  16328739
+      score: 145
+    win/arm64:
+      name:  CliRelay_0.4.34_windows_arm64.zip
+      url:   https://github.com/kittors/CliRelay/releases/download/v0.4.34/CliRelay_0.4.34_windows_arm64.zip
+      size:  15098889
+      score: 45
+    win/amd64:
+      name:  CliRelay_0.4.34_windows_amd64.zip
+      url:   https://github.com/kittors/CliRelay/releases/download/v0.4.34/CliRelay_0.4.34_windows_amd64.zip
+      size:  16666173
+      score: 45
