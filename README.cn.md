@@ -4,7 +4,7 @@
 
 Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas.
 
-![CliRelay](https://repo.x-cmd.io/CliRelay.svg)
+![CliRelay](https://repo.x-cmd.io/CliRelay.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,34 @@ x install CliRelay
 - **最新版本**: `v0.5.1` (2026-09-08)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-09-08T01:38:24Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/kittors/CliRelay/releases/download/v0.5.1/checksums.txt) | 600 B | `other` |
+| [CliRelay_0.5.1_darwin_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.1/CliRelay_0.5.1_darwin_amd64.tar.gz) | 16.2 MiB | `native/darwin/x64` |
+| [CliRelay_0.5.1_darwin_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.1/CliRelay_0.5.1_darwin_arm64.tar.gz) | 15.3 MiB | `native/darwin/arm64` |
+| [CliRelay_0.5.1_linux_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.1/CliRelay_0.5.1_linux_amd64.tar.gz) | 15.6 MiB | `native/linux/x64` |
+| [CliRelay_0.5.1_linux_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.1/CliRelay_0.5.1_linux_arm64.tar.gz) | 14.3 MiB | `native/linux/arm64` |
+| [CliRelay_0.5.1_windows_amd64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.1/CliRelay_0.5.1_windows_amd64.zip) | 15.9 MiB | `native/win/x64` |
+| [CliRelay_0.5.1_windows_arm64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.1/CliRelay_0.5.1_windows_arm64.zip) | 14.5 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 995 · **Fork**: 119 · **开放 issue**: 107 · **贡献者**: 100
+- **Star**: 998 · **Fork**: 120 · **开放 issue**: 107 · **贡献者**: 100
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 860 · **开放 PR**: 2 · **已关闭 issue**: 103 · **开放 issue**: 4 · **提交数**: 3631
+- **发布数**: 47 · **已合并 PR**: 860 · **开放 PR**: 4 · **已关闭 issue**: 103 · **开放 issue**: 4 · **提交数**: 3631
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 14 | 121 | 1 | 11 | 2 | 103 |
-| 90d | 2026-06-12 | 36 | 530 | 2 | 34 | 3 | 515 |
-| 360d | 2025-09-15 | 47 | 860 | 2 | 103 | 4 | 2320 |
+| 30d | 2026-08-11 | 14 | 121 | 3 | 11 | 2 | 103 |
+| 90d | 2026-06-12 | 36 | 530 | 4 | 34 | 3 | 515 |
+| 360d | 2025-09-15 | 47 | 860 | 4 | 103 | 4 | 2320 |
 
 ## 代码规模
 
@@ -61,4 +72,4 @@ CliRelay 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:15:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:20Z._
