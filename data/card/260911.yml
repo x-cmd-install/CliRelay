@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.1"
   latestRelease: "v0.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:14:33Z
+  collectedAt: 2026-09-11T05:12:37Z
 timeline:
   created: 2026-02-27
   lastCommit: 2026-09-08
@@ -20,7 +20,7 @@ popularity:
   fork: 120
   release: 47
   contributor: 100
-  pullRequest: 908
+  pullRequest: 909
   issue: 107
 language:
   Go: 11131459
@@ -33,7 +33,7 @@ recent:
   last30d:
     since: 2026-08-12
     release: 14
-    mergedPR: 119
+    mergedPR: 120
     openPR: 3
     closedIssue: 10
     openIssue: 1
@@ -41,7 +41,7 @@ recent:
   last60d:
     since: 2026-07-13
     release: 26
-    mergedPR: 291
+    mergedPR: 292
     openPR: 4
     closedIssue: 18
     openIssue: 3
@@ -49,7 +49,7 @@ recent:
   last90d:
     since: 2026-06-13
     release: 35
-    mergedPR: 530
+    mergedPR: 531
     openPR: 4
     closedIssue: 33
     openIssue: 3
@@ -57,7 +57,7 @@ recent:
   last180d:
     since: 2026-03-15
     release: 47
-    mergedPR: 858
+    mergedPR: 859
     openPR: 4
     closedIssue: 103
     openIssue: 4
@@ -65,7 +65,7 @@ recent:
   last360d:
     since: 2025-09-16
     release: 47
-    mergedPR: 860
+    mergedPR: 861
     openPR: 4
     closedIssue: 103
     openIssue: 4
@@ -73,21 +73,21 @@ recent:
   last720d:
     since: 2024-09-21
     release: 47
-    mergedPR: 860
+    mergedPR: 861
     openPR: 4
     closedIssue: 103
     openIssue: 4
     commit: 3631
 total:
   release: 47
-  mergedPR: 860
+  mergedPR: 861
   openPR: 4
   closedIssue: 103
   openIssue: 4
   commit: 3631
 ---
 path: /home/runner/.x-repo/github.com/kittors/CliRelay
-collectedAt: 2026-09-11T00:14:40Z
+collectedAt: 2026-09-11T05:12:48Z
 loc:
   Go:
     code: 356314
