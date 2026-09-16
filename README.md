@@ -14,11 +14,11 @@ x install CliRelay
 
 ## Code insight
 
-Total: **365,635** lines of code across **1733** files in the top 5 languages.
+Total: **365,859** lines of code across **1736** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 361,357 | 34,376 | 41,444 | 1716 |
+| Go | 361,581 | 34,430 | 41,473 | 1719 |
 | Sh | 2,024 | 158 | 218 | 10 |
 | Python | 1,916 | 26 | 281 | 4 |
 | Yaml | 201 | 453 | 63 | 2 |
@@ -32,27 +32,27 @@ Total: **365,635** lines of code across **1733** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.2` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-16
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,003 · **Forks**: 120 · **Open issues**: 108 · **Contributors**: 100
+- **Stars**: 1,005 · **Forks**: 121 · **Open issues**: 109 · **Contributors**: 100
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 867 · **Open PRs**: 4 · **Closed issues**: 103 · **Open issues**: 5 · **Commits**: 3648
+- **Releases**: 48 · **Merged PRs**: 869 · **Open PRs**: 5 · **Closed issues**: 103 · **Open issues**: 6 · **Commits**: 3652
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 12 | 118 | 3 | 9 | 2 | 90 |
-| last60d | 2026-07-17 | 24 | 264 | 4 | 18 | 3 | 203 |
-| 90d | 2026-06-17 | 35 | 520 | 4 | 31 | 4 | 503 |
-| last180d | 2026-03-19 | 48 | 865 | 4 | 103 | 5 | 973 |
-| 360d | 2025-09-20 | 48 | 867 | 4 | 103 | 5 | 2258 |
-| last720d | 2024-09-25 | 48 | 867 | 4 | 103 | 5 | 3648 |
+| 30d | 2026-08-17 | 12 | 116 | 4 | 9 | 3 | 91 |
+| last60d | 2026-07-18 | 24 | 265 | 5 | 18 | 4 | 204 |
+| 90d | 2026-06-18 | 34 | 506 | 5 | 29 | 5 | 504 |
+| last180d | 2026-03-20 | 47 | 867 | 5 | 103 | 6 | 974 |
+| 360d | 2025-09-21 | 48 | 869 | 5 | 103 | 6 | 2259 |
+| last720d | 2024-09-26 | 48 | 869 | 5 | 103 | 6 | 3652 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for CliRelay lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:37:21Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:44:06Z._
