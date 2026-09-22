@@ -14,12 +14,12 @@ x install CliRelay
 
 ## 代码洞察
 
-合计: **365,859** 行代码（覆盖前 5 种语言、共 **1736** 个文件）。
+合计: **368,781** 行代码（覆盖前 5 种语言、共 **1758** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 361,581 | 34,430 | 41,473 | 1719 |
-| Sh | 2,024 | 158 | 218 | 10 |
+| Go | 364,476 | 35,120 | 41,853 | 1741 |
+| Sh | 2,051 | 173 | 220 | 10 |
 | Python | 1,916 | 26 | 281 | 4 |
 | Yaml | 201 | 453 | 63 | 2 |
 | Dockerfile | 83 | 12 | 27 | 1 |
@@ -31,40 +31,40 @@ x install CliRelay
 
 ## 发布
 
-- **最新版本**: `v0.5.2` (2026-09-14)
-- **最近提交**: 2026-09-16
+- **最新版本**: `v0.5.3` (2026-09-21)
+- **最近提交**: 2026-09-21
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,021 · **Fork**: 122 · **开放 issue**: 116 · **贡献者**: 100
+- **Star**: 1,023 · **Fork**: 123 · **开放 issue**: 116 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 875 · **开放 PR**: 6 · **已关闭 issue**: 103 · **开放 issue**: 13 · **提交数**: 3652
+- **发布数**: 49 · **已合并 PR**: 888 · **开放 PR**: 0 · **已关闭 issue**: 103 · **开放 issue**: 13 · **提交数**: 3695
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 10 | 98 | 6 | 8 | 10 | 61 |
-| last60d | 2026-07-23 | 21 | 205 | 6 | 15 | 11 | 150 |
-| 90d | 2026-06-23 | 31 | 500 | 6 | 27 | 12 | 493 |
-| last180d | 2026-03-25 | 47 | 873 | 6 | 103 | 13 | 963 |
-| 360d | 2025-09-26 | 48 | 875 | 6 | 103 | 13 | 2167 |
-| last720d | 2024-10-01 | 48 | 875 | 6 | 103 | 13 | 3652 |
+| 30d | 2026-08-23 | 10 | 107 | 0 | 8 | 10 | 86 |
+| last60d | 2026-07-24 | 22 | 213 | 0 | 15 | 11 | 175 |
+| 90d | 2026-06-24 | 32 | 510 | 0 | 27 | 12 | 518 |
+| last180d | 2026-03-26 | 48 | 886 | 0 | 103 | 13 | 988 |
+| 360d | 2025-09-27 | 49 | 888 | 0 | 103 | 13 | 2192 |
+| last720d | 2024-10-02 | 49 | 888 | 0 | 103 | 13 | 3695 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kittors/CliRelay/releases/download/v0.5.2/checksums.txt) | 600 B | `other` |
-| [CliRelay_0.5.2_darwin_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.2/CliRelay_0.5.2_darwin_amd64.tar.gz) | 16.3 MiB | `native/darwin/x64` |
-| [CliRelay_0.5.2_darwin_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.2/CliRelay_0.5.2_darwin_arm64.tar.gz) | 15.4 MiB | `native/darwin/arm64` |
-| [CliRelay_0.5.2_linux_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.2/CliRelay_0.5.2_linux_amd64.tar.gz) | 15.7 MiB | `native/linux/x64` |
-| [CliRelay_0.5.2_linux_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.2/CliRelay_0.5.2_linux_arm64.tar.gz) | 14.4 MiB | `native/linux/arm64` |
-| [CliRelay_0.5.2_windows_amd64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.2/CliRelay_0.5.2_windows_amd64.zip) | 16.0 MiB | `native/win/x64` |
-| [CliRelay_0.5.2_windows_arm64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.2/CliRelay_0.5.2_windows_arm64.zip) | 14.5 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/kittors/CliRelay/releases/download/v0.5.3/checksums.txt) | 600 B | `other` |
+| [CliRelay_0.5.3_darwin_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_darwin_amd64.tar.gz) | 16.3 MiB | `native/darwin/x64` |
+| [CliRelay_0.5.3_darwin_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_darwin_arm64.tar.gz) | 15.4 MiB | `native/darwin/arm64` |
+| [CliRelay_0.5.3_linux_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_linux_amd64.tar.gz) | 15.7 MiB | `native/linux/x64` |
+| [CliRelay_0.5.3_linux_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_linux_arm64.tar.gz) | 14.4 MiB | `native/linux/arm64` |
+| [CliRelay_0.5.3_windows_amd64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_windows_amd64.zip) | 16.0 MiB | `native/win/x64` |
+| [CliRelay_0.5.3_windows_arm64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_windows_arm64.zip) | 14.5 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ CliRelay 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:49:42Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T05:34:36Z._
