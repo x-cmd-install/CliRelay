@@ -14,14 +14,14 @@ x install CliRelay
 
 ## Code insight
 
-Total: **368,781** lines of code across **1758** files in the top 5 languages.
+Total: **376,019** lines of code across **1805** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 364,476 | 35,120 | 41,853 | 1741 |
-| Sh | 2,051 | 173 | 220 | 10 |
+| Go | 371,714 | 36,222 | 42,619 | 1788 |
+| Sh | 2,055 | 183 | 220 | 10 |
 | Python | 1,916 | 26 | 281 | 4 |
-| Yaml | 201 | 453 | 63 | 2 |
+| Yaml | 197 | 486 | 65 | 2 |
 | Dockerfile | 83 | 12 | 27 | 1 |
 
 ## Source
@@ -31,40 +31,40 @@ Total: **368,781** lines of code across **1758** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.3` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Latest**: `v0.5.5` (2026-09-24)
+- **Last commit**: 2026-09-24
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,023 · **Forks**: 124 · **Open issues**: 116 · **Contributors**: 101
+- **Stars**: 1,024 · **Forks**: 124 · **Open issues**: 117 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 898 · **Open PRs**: 1 · **Closed issues**: 103 · **Open issues**: 13 · **Commits**: 3695
+- **Releases**: 51 · **Merged PRs**: 909 · **Open PRs**: 2 · **Closed issues**: 109 · **Open issues**: 8 · **Commits**: 3716
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 10 | 109 | 1 | 8 | 10 | 86 |
-| last60d | 2026-07-25 | 22 | 220 | 1 | 15 | 11 | 175 |
-| 90d | 2026-06-25 | 32 | 517 | 1 | 27 | 12 | 518 |
-| last180d | 2026-03-27 | 48 | 896 | 1 | 103 | 13 | 988 |
-| 360d | 2025-09-28 | 49 | 898 | 1 | 103 | 13 | 2192 |
-| last720d | 2024-10-03 | 49 | 898 | 1 | 103 | 13 | 3695 |
+| 30d | 2026-08-25 | 12 | 119 | 2 | 13 | 6 | 103 |
+| last60d | 2026-07-26 | 23 | 219 | 2 | 20 | 7 | 192 |
+| 90d | 2026-06-26 | 33 | 527 | 2 | 29 | 8 | 535 |
+| last180d | 2026-03-28 | 50 | 907 | 2 | 109 | 8 | 1005 |
+| 360d | 2025-09-29 | 51 | 909 | 2 | 109 | 8 | 2209 |
+| last720d | 2024-10-04 | 51 | 909 | 2 | 109 | 8 | 3716 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/kittors/CliRelay/releases/download/v0.5.3/checksums.txt) | 600 B | `other` |
-| [CliRelay_0.5.3_darwin_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_darwin_amd64.tar.gz) | 16.3 MiB | `native/darwin/x64` |
-| [CliRelay_0.5.3_darwin_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_darwin_arm64.tar.gz) | 15.4 MiB | `native/darwin/arm64` |
-| [CliRelay_0.5.3_linux_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_linux_amd64.tar.gz) | 15.7 MiB | `native/linux/x64` |
-| [CliRelay_0.5.3_linux_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_linux_arm64.tar.gz) | 14.4 MiB | `native/linux/arm64` |
-| [CliRelay_0.5.3_windows_amd64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_windows_amd64.zip) | 16.0 MiB | `native/win/x64` |
-| [CliRelay_0.5.3_windows_arm64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.3/CliRelay_0.5.3_windows_arm64.zip) | 14.5 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/kittors/CliRelay/releases/download/v0.5.5/checksums.txt) | 600 B | `other` |
+| [CliRelay_0.5.5_darwin_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_darwin_amd64.tar.gz) | 16.4 MiB | `native/darwin/x64` |
+| [CliRelay_0.5.5_darwin_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_darwin_arm64.tar.gz) | 15.4 MiB | `native/darwin/arm64` |
+| [CliRelay_0.5.5_linux_amd64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_linux_amd64.tar.gz) | 15.7 MiB | `native/linux/x64` |
+| [CliRelay_0.5.5_linux_arm64.tar.gz](https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_linux_arm64.tar.gz) | 14.4 MiB | `native/linux/arm64` |
+| [CliRelay_0.5.5_windows_amd64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_windows_amd64.zip) | 16.1 MiB | `native/win/x64` |
+| [CliRelay_0.5.5_windows_arm64.zip](https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_windows_arm64.zip) | 14.6 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for CliRelay lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:36:10Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:20:03Z._
