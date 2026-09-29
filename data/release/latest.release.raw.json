@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16180709,
       "digest": "sha256:b2c93589180ae979fe40757d78728fffcfd639287d0b547ced116b096e40f20d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-24T03:17:46Z",
       "updated_at": "2026-09-24T03:17:48Z",
       "browser_download_url": "https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16497218,
       "digest": "sha256:f6b9f1523e24cb859c5977716ed4380928d6620d08a1685543ef6c7db7811fca",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-24T03:17:46Z",
       "updated_at": "2026-09-24T03:17:48Z",
       "browser_download_url": "https://github.com/kittors/CliRelay/releases/download/v0.5.5/CliRelay_0.5.5_linux_amd64.tar.gz"
