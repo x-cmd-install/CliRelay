@@ -1,0 +1,144 @@
+about:
+  description: "Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas."
+  license: MIT
+  homepage: 
+  head: 0e81a38
+  archived: false
+  latestVersion: "v0.5.7"
+  latestRelease: "v0.5.7"
+  latestPrerelease: ""
+  collectedAt: 2026-10-08T06:33:36Z
+timeline:
+  created: 2026-02-27
+  lastCommit: 2026-10-07
+  lastVersion: 2026-10-07
+  lastRelease: 2026-10-07
+  lastPrerelease: 
+popularity:
+  star: 1029
+  watcher: 3
+  fork: 128
+  release: 53
+  contributor: 105
+  pullRequest: 1005
+  issue: 120
+language:
+  Go: 13586417
+  Shell: 163237
+  Python: 82908
+  Dockerfile: 6466
+  PowerShell: 2000
+totalBytes: 13841028
+recent:
+  last30d:
+    since: 2026-09-08
+    release: 7
+    mergedPR: 87
+    openPR: 0
+    closedIssue: 4
+    openIssue: 9
+    commit: 129
+  last60d:
+    since: 2026-08-09
+    release: 21
+    mergedPR: 210
+    openPR: 0
+    closedIssue: 17
+    openIssue: 10
+    commit: 242
+  last90d:
+    since: 2026-07-10
+    release: 35
+    mergedPR: 442
+    openPR: 0
+    closedIssue: 24
+    openIssue: 11
+    commit: 475
+  last180d:
+    since: 2026-04-11
+    release: 51
+    mergedPR: 939
+    openPR: 0
+    closedIssue: 109
+    openIssue: 11
+    commit: 1069
+  last360d:
+    since: 2025-10-13
+    release: 53
+    mergedPR: 942
+    openPR: 0
+    closedIssue: 109
+    openIssue: 11
+    commit: 2201
+  last720d:
+    since: 2024-10-18
+    release: 53
+    mergedPR: 942
+    openPR: 0
+    closedIssue: 109
+    openIssue: 11
+    commit: 3841
+total:
+  release: 53
+  mergedPR: 942
+  openPR: 0
+  closedIssue: 109
+  openIssue: 11
+  commit: 3841
+---
+path: /home/runner/.x-repo/github.com/kittors/CliRelay
+collectedAt: 2026-10-08T06:33:40Z
+loc:
+  Go:
+    code: 411608
+    comments: 41484
+    blanks: 46441
+    files: 2065
+  Sh:
+    code: 3305
+    comments: 553
+    blanks: 330
+    files: 19
+  Python:
+    code: 1916
+    comments: 26
+    blanks: 281
+    files: 4
+  Yaml:
+    code: 310
+    comments: 571
+    blanks: 76
+    files: 6
+  Bash:
+    code: 99
+    comments: 35
+    blanks: 15
+    files: 1
+  Dockerfile:
+    code: 97
+    comments: 22
+    blanks: 31
+    files: 2
+  PowerShell:
+    code: 35
+    comments: 9
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1296
+    blanks: 423
+    files: 8
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 417550
+  comments: 44042
+  blanks: 47615
+  files: 2107
+---
+
+---
