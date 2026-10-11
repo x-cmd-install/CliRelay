@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 600,
       "digest": "sha256:b9a8dda919efcf8c65ec6b79698265fc686cf5faa8ca944f43399161273c6b4e",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-09T16:20:09Z",
       "updated_at": "2026-10-09T16:20:10Z",
       "browser_download_url": "https://github.com/kittors/CliRelay/releases/download/v0.5.8/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17133868,
       "digest": "sha256:7774b1bc82ab13a12956473f35b7c376fd1316328a65c1467f67a6aee7d7a6d9",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-10-09T16:20:08Z",
       "updated_at": "2026-10-09T16:20:09Z",
       "browser_download_url": "https://github.com/kittors/CliRelay/releases/download/v0.5.8/CliRelay_0.5.8_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 17485408,
       "digest": "sha256:e79f71bb8ebb68c9fb7ca4ba5f8e6dae3b6bb8c5cbef3f3b2f889b6d85f7fa9d",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-10-09T16:20:08Z",
       "updated_at": "2026-10-09T16:20:09Z",
       "browser_download_url": "https://github.com/kittors/CliRelay/releases/download/v0.5.8/CliRelay_0.5.8_windows_amd64.zip"
