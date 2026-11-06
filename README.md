@@ -37,22 +37,22 @@ Total: **422,427** lines of code across **2130** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,049 · **Forks**: 135 · **Open issues**: 129 · **Contributors**: 106
+- **Stars**: 1,051 · **Forks**: 135 · **Open issues**: 129 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 1007 · **Open PRs**: 21 · **Closed issues**: 110 · **Open issues**: 19 · **Commits**: 3873
+- **Releases**: 55 · **Merged PRs**: 1014 · **Open PRs**: 24 · **Closed issues**: 110 · **Open issues**: 19 · **Commits**: 3873
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 70 | 21 | 1 | 8 | 16 |
-| last60d | 2026-09-06 | 10 | 170 | 21 | 6 | 17 | 152 |
-| 90d | 2026-08-07 | 23 | 279 | 21 | 19 | 18 | 267 |
-| last180d | 2026-05-09 | 48 | 877 | 21 | 80 | 19 | 853 |
-| 360d | 2025-11-10 | 55 | 1007 | 21 | 110 | 19 | 2085 |
-| last720d | 2024-11-15 | 55 | 1007 | 21 | 110 | 19 | 3873 |
+| 30d | 2026-10-07 | 3 | 72 | 24 | 1 | 8 | 16 |
+| last60d | 2026-09-07 | 10 | 166 | 24 | 5 | 17 | 152 |
+| 90d | 2026-08-08 | 23 | 284 | 24 | 18 | 18 | 267 |
+| last180d | 2026-05-10 | 48 | 870 | 24 | 77 | 19 | 853 |
+| 360d | 2025-11-11 | 55 | 1014 | 24 | 110 | 19 | 2085 |
+| last720d | 2024-11-16 | 55 | 1014 | 24 | 110 | 19 | 3873 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for CliRelay lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:17:26Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:16:58Z._
